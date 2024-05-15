@@ -1,0 +1,14 @@
+D:\QuizRandomizer\QuizRandomizerConsoleApp\bin\Debug\net8.0\QuizRandomizerConsoleApp.exe
+D:\QuizRandomizer\QuizRandomizerConsoleApp\bin\Debug\net8.0\QuizRandomizerConsoleApp.deps.json
+D:\QuizRandomizer\QuizRandomizerConsoleApp\bin\Debug\net8.0\QuizRandomizerConsoleApp.runtimeconfig.json
+D:\QuizRandomizer\QuizRandomizerConsoleApp\bin\Debug\net8.0\QuizRandomizerConsoleApp.dll
+D:\QuizRandomizer\QuizRandomizerConsoleApp\bin\Debug\net8.0\QuizRandomizerConsoleApp.pdb
+D:\QuizRandomizer\QuizRandomizerConsoleApp\obj\Debug\net8.0\QuizRandomizerConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuizRandomizer\QuizRandomizerConsoleApp\obj\Debug\net8.0\QuizRandomizerConsoleApp.AssemblyInfoInputs.cache
+D:\QuizRandomizer\QuizRandomizerConsoleApp\obj\Debug\net8.0\QuizRandomizerConsoleApp.AssemblyInfo.cs
+D:\QuizRandomizer\QuizRandomizerConsoleApp\obj\Debug\net8.0\QuizRandomizerConsoleApp.csproj.CoreCompileInputs.cache
+D:\QuizRandomizer\QuizRandomizerConsoleApp\obj\Debug\net8.0\QuizRandomizerConsoleApp.dll
+D:\QuizRandomizer\QuizRandomizerConsoleApp\obj\Debug\net8.0\refint\QuizRandomizerConsoleApp.dll
+D:\QuizRandomizer\QuizRandomizerConsoleApp\obj\Debug\net8.0\QuizRandomizerConsoleApp.pdb
+D:\QuizRandomizer\QuizRandomizerConsoleApp\obj\Debug\net8.0\QuizRandomizerConsoleApp.genruntimeconfig.cache
+D:\QuizRandomizer\QuizRandomizerConsoleApp\obj\Debug\net8.0\ref\QuizRandomizerConsoleApp.dll
